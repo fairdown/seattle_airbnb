@@ -32,7 +32,7 @@ There are 4 notebooks available here to showcase work related to the above quest
 
 <h3>Results</h3>
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available <a href="https://medium.com/@rafaeldonfigueiredo/this-is-why-people-like-to-stay-in-an-airbnb-house-7cbdbc2e838b">here</a>.
 
 <h3>Licensing, Authors, Acknowledgements</h3>
 
