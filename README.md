@@ -21,7 +21,7 @@ I was looking for 4 questions:
 
 <ol>
 <li>Which months are most rented?</li>
-<li>Do you rent more houses in a certain neighborhood in Seattle?</li>
+<li>Do they prefer houses in a certain neighborhood in Seattle?</li>
 <li>How many good and bad reviews exists?</li>
 <li>What are the reasons they like or dislike their stays?</li>
 </ol>
