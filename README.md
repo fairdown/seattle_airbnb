@@ -11,11 +11,11 @@
 
 <h3>Installation</h3>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+I'm using Python version 3.8.8 and the libraries Pandas 1.2.4 and matplotlib 3.3.4
 
 <h3>Project Motivation</h3>
 
-For this project, I was interestested in using Seattle Airbnb Open Data that Udacity provides me:
+For this project, I was looking for the experiences of people who used Airbnb, if they liked more than unliked, if they had some preferences houses in certain neighbourhood, because I have never tried using Airbnb.
 
 I was looking for 4 questions:
 
