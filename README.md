@@ -11,7 +11,7 @@
 
 <h3>Installation</h3>
 
-I'm using Python version 3.8.8 and the libraries Pandas 1.2.4 and matplotlib 3.3.4
+I'm using Python version 3.8.8, libraries Pandas 1.2.4 and matplotlib 3.3.4.
 
 <h3>Project Motivation</h3>
 
