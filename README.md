@@ -17,7 +17,7 @@ I'm using Python version 3.8.8, libraries Pandas 1.2.4 and matplotlib 3.3.4.
 <a name="motivation"></a>
 <h3>Project Motivation</h3>
 
-For this project, I was looking for the experiences of people who used Airbnb, if they liked more than unliked, if they had some preferences houses in certain neighbourhood, because I have never tried using Airbnb.
+For this project, I was looking for the experiences of people who used Airbnb, if they liked more than unliked, if they had some preferences houses in certain neighbourhood. All this because I am curious about people's experiences, as I have never used airbnb.
 
 I was looking for 4 questions:
 
