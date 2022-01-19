@@ -31,7 +31,7 @@ I was looking for 4 questions:
 <a name="description"></a>
 <h3>File Descriptions</h3>
 
-There are 4 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+There are 4 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.
 
 <a name="results"></a>
 <h3>Results</h3>
